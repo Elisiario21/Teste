@@ -1,5 +1,5 @@
 # Arquivo de testes de Javascript
-Para testar digite:
-''''
+> Para testar digite:
+```
 testando
-''''
+```
